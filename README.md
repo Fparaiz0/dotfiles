@@ -73,5 +73,5 @@ uninstall.sh
 ├── Lista backups disponíveis
 ├── Remove os symlinks
 ├── Restaura o backup escolhido (ou roda boot do Omarchy)
-└── Volta ao estado do backup escolhido (Ou ao estado original)
+└── Volta ao estado do backup escolhido (ou ao estado original)
 ```
