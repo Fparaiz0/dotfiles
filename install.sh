@@ -34,7 +34,7 @@ create_link() {
         log_warning "Backup criado: $target → $BACKUP_DIR/"
     fi
 
-    if ln -sf "$source" "$target"; then
+    if ln -sfn "$source" "$target"; then
         log_success "Link criado: $target → $source"
     else
         log_error "Falha ao criar link: $target"
