@@ -49,11 +49,13 @@ chmod +x uninstall.sh
 
 ```
 dotfiles/
-├── hypr/          # Configurações do Hyprland
-├── waybar/        # Configurações do Waybar
-├── ghostty/       # Configurações do Ghostty
 ├── alacritty/     # Configurações do Alacritty
+├── ghostty/       # Configurações do Ghostty
+├── hypr/          # Configurações do Hyprland
 ├── nvim/          # Configurações do Neovim
+├── waybar/        # Configurações do Waybar
+├── .gitignore     # Arquivo de configuração do git
+├── README.md      # Este arquivo
 ├── bashrc         # Configurações do Bash
 ├── install.sh     # Script de instalação
 └── uninstall.sh   # Script de desinstalação
