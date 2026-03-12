@@ -22,7 +22,7 @@
 ## 🚀 Instalação
 
 ```bash
-git clone https://github.com/Fparaiz0/dotfiles.git ~/dotfiles
+git clone https://github.com/felipeparaizoo/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 bash install.sh
 ```
