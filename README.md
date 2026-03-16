@@ -76,8 +76,12 @@ uninstall.sh
 
 ## 🎨 Theme
 
-```
+```bash
 omarchy-theme-install https://github.com/Luquatic/omarchy-catppuccin-glass
+```
+## 🖌️ Waybar
+```bash
+git clone https://github.com/HANCORE-linux/waybar-themes.git /tmp/repo && cp -rf /tmp/repo/config/V2.3/. ~/.config/waybar && rm -rf /tmp/repo && omarchy-restart-waybar
 ```
 
 ## 🖼️ Wallpapers 
