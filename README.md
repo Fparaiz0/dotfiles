@@ -73,3 +73,12 @@ uninstall.sh
 ├── Restaura o backup escolhido (ou roda boot do Omarchy)
 └── Volta ao estado do backup escolhido (ou ao estado original)
 ```
+
+## 🎨 Theme
+
+```
+omarchy-theme-install https://github.com/Luquatic/omarchy-catppuccin-glass
+```
+
+## 🖼️ Wallpapers 
+[Click here]()
