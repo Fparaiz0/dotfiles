@@ -81,4 +81,4 @@ omarchy-theme-install https://github.com/Luquatic/omarchy-catppuccin-glass
 ```
 
 ## 🖼️ Wallpapers 
-[Click here]()
+[Click here](/wallpapers)
